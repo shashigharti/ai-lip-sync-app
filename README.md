@@ -1,6 +1,6 @@
 # AI Lip Sync
 
-![Screenshot 2024-01-22 at 03-03-09 app · Streamlit](https://github.com/Aml-Hassan-Abd-El-hamid/AI-Lip-Sync/assets/66205928/d35f379f-f1ca-46e5-a113-bfa3f3c4c2f9)
+![Screenshot 2024-01-22 at 03-03-09 app · Streamlit](https://github.com/shashigharti/ai-lip-sync-app/assets/66205928/d35f379f-f1ca-46e5-a113-bfa3f3c4c2f9)
 
 
 The project started as a part of an interview process with some company, I received an email with the following task:
